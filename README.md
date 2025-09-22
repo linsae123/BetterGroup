@@ -24,11 +24,11 @@ DM 그룹에서 멤버 초대, 추방, 그룹 이름 변경, 통화방 재접속
 ## 설치 방법
 
 1. [BetterDiscord](https://betterdiscord.app/) 설치
-2. 플러그인 파일(`GroupManager.plugin.js`) 다운로드
+2. 플러그인 파일(`BetterGroup.plugin.js`) 다운로드
 3. BetterDiscord 플러그인 폴더에 파일 복사
    - Windows: `%AppData%\BetterDiscord\plugins`
    - macOS: `~/Library/Application Support/BetterDiscord/plugins`
-4. Discord → 사용자 설정 → **Plugins** → 플러그인 활성화
+4. Discord → 사용자 설정 → **플러그인** → 플러그인 활성화
 
 ---
 
